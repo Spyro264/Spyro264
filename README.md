@@ -13,8 +13,6 @@
 <p align="center">
   <a href="https://github.com/Spyro264"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/nagarajvh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Spyro264&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
 ---
@@ -97,9 +95,6 @@ I'm always interested in discussing software development, useful product ideas, 
 <p align="center">
   <a href="https://github.com/Spyro264">
     <img src="https://img.shields.io/badge/Follow%20me%20on%20GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Let's%20Talk-6366f1?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me"/>
   </a>
 </p>
 
